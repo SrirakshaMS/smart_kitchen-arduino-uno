@@ -17,14 +17,14 @@ Objective: enhance the safety, efficiency and convenience of the kitchen.
 7. 1x MQ2 Gas sensor module
 8. 1x 5V 1-chanel Relay module
 9. 1x 9V Battery </br>
-10.1x Buzzer Module </br>
-11.1x PIR motion sensor module </br>
-12.1x Red LED bulb </br>
-13.Male to female jumper wires </br>
-14.Male to male jumper wires </br>
-15.Female to female jumper wires </br>
-16.1x Breadboard </br>
-17.Exhaust fan </br>
+10. 1x Buzzer Module </br>
+11. 1x PIR motion sensor module </br>
+12. 1x Red LED bulb </br>
+13. Male to female jumper wires </br>
+14. Male to male jumper wires </br>
+15. Female to female jumper wires </br>
+16. 1x Breadboard </br>
+17. Exhaust fan </br>
 
 Do the circuit connections as shown, upload the code, build the required aesthetics of your model and your project is ready!
 ### Reference Link: https://medium.com/@srirakshams15/smart-kitchen-automation-using-arduino-uno-with-source-code-a4d9d8ecfdff
